@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.c7f5548b.css",
-    "main.js": "/static/js/main.107fc18b.js",
+    "main.js": "/static/js/main.a7953546.js",
     "static/js/787.749b4a44.chunk.js": "/static/js/787.749b4a44.chunk.js",
     "static/media/ProfilePic.jpeg": "/static/media/ProfilePic.0e7452c8a652155ec5eb.jpeg",
     "static/media/itu.png": "/static/media/itu.03b2729b2b9ace123673.png",
     "index.html": "/index.html",
     "main.c7f5548b.css.map": "/static/css/main.c7f5548b.css.map",
-    "main.107fc18b.js.map": "/static/js/main.107fc18b.js.map",
+    "main.a7953546.js.map": "/static/js/main.a7953546.js.map",
     "787.749b4a44.chunk.js.map": "/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7f5548b.css",
-    "static/js/main.107fc18b.js"
+    "static/js/main.a7953546.js"
   ]
 }
