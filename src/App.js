@@ -6,7 +6,6 @@ import About from './components/sections/about/About';
 import Experience from './components/sections/experience/Experience';
 import Contact from './components/sections/contact/Contact';
 import Section from './components/sections/Section';
-import styled from 'styled-components';
 
 function App() {
   const aboutMeRef = useRef(null);

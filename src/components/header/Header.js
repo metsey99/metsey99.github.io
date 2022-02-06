@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import NavBarElement from './NavBarElement/NavBarElement';
 import { useScroll } from './useScroll';
 import { BiMenuAltRight, BiX } from "react-icons/bi";
-import { useEffect } from 'react/cjs/react.development';
 
 
 const StyledNavBar = styled.div`

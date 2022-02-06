@@ -57,7 +57,7 @@ const Contact = () => {
     <StyledWrapper>
       <StyledTitle>Send Me a Message!</StyledTitle>
       <StyledPhrase>
-        Got a question, exciting proposal/opportunity or just want to say hello? Don't hesitate to contact me. I'll try me best to get back to you as soon as possible!
+        Got a question, exciting proposal/opportunity or just want to say hello? Don't hesitate to contact me. I'll try my best to get back to you as soon as possible!
       </StyledPhrase>
       <div>
         <Socials />
